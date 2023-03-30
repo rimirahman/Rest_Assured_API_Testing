@@ -38,6 +38,6 @@ https://docs.google.com/spreadsheets/d/1WrZab-JBGW9NbYmKcII6KsaR34ThYeie/edit?us
 
 ## Allure reports
 
-![report](https://user-images.githubusercontent.com/122162468/225115695-adec09e8-c464-4300-9fe6-48b46e6675d2.JPG)
+![Behaviour](https://user-images.githubusercontent.com/122162468/228738486-ed7eb6a3-59f4-4cc7-ac43-e78c0d458516.JPG)
 
-![Behaviour](https://user-images.githubusercontent.com/122162468/225115720-6d4b565e-c4cc-45eb-8173-520d4e057176.JPG)
+![report](https://user-images.githubusercontent.com/122162468/228738490-30bc79e5-4697-4f97-ab24-232632c87c97.JPG)
